@@ -1,6 +1,7 @@
-## [giter8](http://github.com/n8han/giter8) template for mixed Java/Scala Maven project with scalatest
+## [giter8](http://github.com/n8han/giter8) template for mixed Java/Scala maven project
 
 ### uses
+* Java >= 1.6
 * Scala 2.9.2
 * Scalatest 1.8
 * junit 4.10
