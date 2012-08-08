@@ -1,4 +1,4 @@
-package $group_id$;
+package $group_id$
 
 object Stub {
   def main(args: Array[String]) {
