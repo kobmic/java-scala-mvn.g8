@@ -1,6 +1,6 @@
 package $group_id$;
 
-public class JStub {
+public class $name;format="Camel"$ {
 
     /**
      * @param args
