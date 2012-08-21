@@ -65,6 +65,7 @@ http://maven.apache.org/maven-v4_0_0.xsd">
 		<plugin>
                     <groupId>org.scala-tools</groupId>
                     <artifactId>maven-scala-plugin</artifactId>
+                    <version>2.15.2</version>
                     <executions>
                         <execution>
                             <id>scala-compile-first</id>
@@ -86,7 +87,8 @@ http://maven.apache.org/maven-v4_0_0.xsd">
                 <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <executions>
+                <version>2.3.2</version>
+                 <executions>
                     <execution>
                         <phase>compile</phase>
                         <goals>
