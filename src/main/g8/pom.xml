@@ -4,7 +4,7 @@
 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>$group_id$</groupId>
-    <artifactId>scala-maven-template</artifactId>
+    <artifactId>$name$</artifactId>
     <packaging>jar</packaging>
     <version>0.1-SNAPSHOT</version>
     <name>$name$</name>
