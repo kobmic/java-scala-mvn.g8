@@ -2,9 +2,9 @@
 
 ### uses
 * Java >= 1.6
-* Scala 2.10.0
+* Scala 2.10.2
 * Scalatest 1.9.1
-* junit 4.10
+* junit 4.11
 
 ### usage:
 Follow g8 [installation instructions](http://github.com/n8han/giter8#readme)  
