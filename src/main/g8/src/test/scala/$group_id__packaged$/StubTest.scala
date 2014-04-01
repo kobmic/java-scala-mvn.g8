@@ -1,12 +1,11 @@
 package $group_id$
 
-import org.scalatest.Spec
-import org.scalatest.matchers.ShouldMatchers
+import org.scalatest._
 import org.scalatest.junit.JUnitRunner
 import org.junit.runner.RunWith
 
 @RunWith(classOf[JUnitRunner])
-class StubTest extends Spec with ShouldMatchers {
+class StubTest extends FunSpec with Matchers {	
 
   describe("your description here") {
     it("should do something") {
