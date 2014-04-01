@@ -2,8 +2,8 @@
 
 ### uses
 * Java >= 1.6
-* Scala 2.10.2
-* Scalatest 1.9.1
+* Scala 2.10.4
+* Scalatest 2.1.0
 * junit 4.11
 
 ### usage:
