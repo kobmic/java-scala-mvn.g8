@@ -14,3 +14,5 @@ go to your favourite shell and enter
     cd [app-name]
     mvn clean install
 
+### License:
+Licensed under the Apache License, Version 2.0, see http://www.apache.org/licenses/LICENSE-2.0
