@@ -13,7 +13,7 @@ http://maven.apache.org/maven-v4_0_0.xsd">
 		<maven.compiler.target>1.7</maven.compiler.target>
 		<encoding>UTF-8</encoding>
     </properties>
-	
+
 	<repositories>
 		<repository>
 			<id>scala-tools.org</id>
@@ -40,17 +40,17 @@ http://maven.apache.org/maven-v4_0_0.xsd">
         <dependency>
             <groupId>org.scala-lang</groupId>
             <artifactId>scala-library</artifactId>
-            <version>2.11.0</version>
+            <version>2.11.2</version>
         </dependency>
         <dependency>
             <groupId>org.scala-tools</groupId>
             <artifactId>maven-scala-plugin</artifactId>
-            <version>2.14.1</version>
+            <version>2.15.2</version>
         </dependency>
 		<dependency>
 			<groupId>org.scalatest</groupId>
 			<artifactId>scalatest_2.11</artifactId>
-			<version>2.1.5</version>
+			<version>2.2.1</version>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
@@ -59,7 +59,7 @@ http://maven.apache.org/maven-v4_0_0.xsd">
 		</dependency>
 
 	</dependencies>
-		
+
     <build>
         <plugins>
 		<plugin>
@@ -114,5 +114,5 @@ http://maven.apache.org/maven-v4_0_0.xsd">
 	    </plugin>
         </plugins>
     </build>
-    
+
 </project>

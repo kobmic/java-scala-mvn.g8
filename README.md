@@ -2,7 +2,7 @@
 
 ### uses
 * Java >= 1.7
-* Scala 2.11.0
+* Scala 2.11.2
 * Scalatest 2.1.5
 * junit 4.11
 
